@@ -1,0 +1,2081 @@
+[
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 30.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.672776919352245
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 40.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 62.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 39.798049908424346
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 44.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 92.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 43.28400106388163
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 50.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 126.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 44.3321225001209
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 44.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 154.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 44.494748309828516
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 31.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 448.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.729470922629318
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 32.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 475.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.53226225767703
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 27.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 505.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 24.41357155345131
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 21.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 537.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 19.281174593082717
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 23.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 567.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 22.529948479366702
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 19.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 601.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 19.667509953214847
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 20.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 629.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 19.892650926958034
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 24.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 266.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 24.048932255609937
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 19.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 293.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 14.49912726636659
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 17.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.349290983808594
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 40.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 145.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 41.603412771154936
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 35.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 172.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.842381324801316
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 32.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 202.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.04673243773677
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 36.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 234.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.42699229776926
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 21.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.693499393442966
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 30.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 53.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.33095402327927
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 37.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 83.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 39.14746048288272
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 35.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 117.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.86224000476595
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 38.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 145.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 38.971167680494574
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 25.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 38.930037771197796
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 34.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 52.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.80035216734659
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 35.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 82.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.378053056924855
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 26.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 114.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 27.487828676794933
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 33.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 144.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.19969965060481
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 33.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 178.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.852294907010275
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 30.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 206.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.04731253360067
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 29.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 307.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 29.75442729768562
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 28.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 334.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.22329617390462
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 15.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 364.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 14.020859797597213
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 22.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 41.20893357595037
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 38.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 54.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 39.30332374420453
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 39.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 84.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 40.28954065213126
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 44.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 118.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 42.67165767000042
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 42.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 146.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 42.13687533999459
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 25.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 231.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 25.42752358030639
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 22.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 258.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 16.028202693632025
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 2.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 22.3411638861045
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 35.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 30.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 43.33171404836222
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 2.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 21.990974439069166
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 22.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 34.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.837609874955405
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 41.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 64.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 40.8658664191264
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 46.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 98.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 44.630328414988796
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 43.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 126.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 40.10425367469998
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 26.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 189.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 28.885736670496545
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 26.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 216.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 23.319775147006904
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 24.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 246.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 20.393277271461905
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 21.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 278.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 18.206446973537368
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 3.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 29.13530364279289
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 25.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 31.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 37.80515734904864
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 20.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 336.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 19.67431733266662
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 12.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.62233413876113
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 41.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 42.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 45.034055845791634
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 48.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 76.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 44.630328414988796
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 48.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 104.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 46.389269052127304
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 30.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 309.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.871339386094068
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 34.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 336.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 28.496565608577324
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 29.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 366.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.06713308397131
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 28.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 398.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 28.57837673830771
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 5.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.615466011703745
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 44.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 169.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 44.786921602215706
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 48.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 196.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 39.089170460750516
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 40.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 226.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 37.06815793505748
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 40.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 258.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.238554340511556
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 12.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.349290983808594
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 27.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 330.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.757447489034806
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 27.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 357.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 21.19148596554517
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 13.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 387.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 14.529223974364093
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 32.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 75.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.166490028622704
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 35.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 102.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.615848270452005
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 33.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 132.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.30028099328167
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 33.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 164.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.15268063357332
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 32.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 194.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.30056947810034
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 34.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 228.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.314731564953526
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 32.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 256.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 29.535566133452818
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 17.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.12033050285185
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 35.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 44.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 37.931552355347144
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 36.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 74.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.47082870061739
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 36.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 106.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.94858485103297
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 37.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 136.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 37.75421451225844
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 42.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 170.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 40.703630571626725
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 41.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 198.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 37.95967990152315
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 12.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.12033050285185
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 21.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 39.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 28.302198093075983
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 17.400000000000002,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 69.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 19.39084751825971
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 22.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 101.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 22.957097481524503
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 28.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 131.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.42447812182544
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 27.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 165.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 27.726657027214173
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 27.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 193.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 27.13132698905891
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 32.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 291.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 31.967726748194973
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 30.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 29.68012784243321
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 43.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 60.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 41.505849071784645
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 39.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 94.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 40.38215638705401
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 42.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 122.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 40.10425367469998
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 17.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 31.84745734810447
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 23.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 51.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 28.039084800723714
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 27.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 79.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.819836464588068
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 14.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 31.614983215680166
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 20.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 46.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 25.4164179841088
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 27.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 76.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.466015465470118
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 32.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 110.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.44405153697053
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 34.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 138.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.35906256354469
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 25.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 196.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 27.349873363097895
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 30.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 223.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.235760691548666
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 26.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 253.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 23.530737385910086
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 26.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 285.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 23.50508786324495
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 2.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 22.3411638861045
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 16.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 30.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.564503820122976
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 30.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 58.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.88995194602798
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 26.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 85.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.023130737641353
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 31.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 115.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.954609520084936
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 35.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 147.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.18531015817997
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 34.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 177.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.69779919223838
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 35.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 211.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.10748792588833
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 34.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 239.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.443475068423794
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 30.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 217.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.533847862712
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 36.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 244.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.19438466417851
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 30.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 274.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 27.509271665174907
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 31.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 306.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 27.53798549619516
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 30.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 336.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 28.682114441429434
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 22.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 41.44140770837466
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 26.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 56.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 30.215078273084224
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 23.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 84.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.697222465245176
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 10.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.773658264071734
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 26.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 44.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.742459982381604
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 34.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 72.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.17220709362594
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 26.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 33.261385574825574
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 17.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.349290983808594
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 34.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 80.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.88438645558708
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 33.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 107.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 31.505243500523772
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 3,
+      "producao_anterior": 28.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 137.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.22453489810533
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": 18.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 169.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 18.505455220266317
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 27.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 199.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 26.77750598994096
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 34.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 233.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.244149784077734
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 33.4,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 261.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.443475068423794
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 4,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 30.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 29.68012784243321
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": 29.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 60.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.82395158494889
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 32.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 94.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 35.57565209514185
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 36.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 122.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 36.745484622991974
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 1,
+      "producao_anterior": 15.6,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 532.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 18.221867343332654
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 2,
+      "producao_anterior": 20.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 559.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 15.693049463179376
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 5,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 19.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 29.450398289576228
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 6,
+      "producao_anterior": 28.8,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 53.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 32.978447299720784
+  },
+  {
+    "features": {
+      "propriedade": "Cerqueira César",
+      "mes_controle": 7,
+      "producao_anterior": 35.2,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 81.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 38.08424854230527
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 5,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 16.223870967224105
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 6,
+      "producao_anterior": 19.81,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 16.308821059666357
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 7,
+      "producao_anterior": 17.48,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.691348130966762
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 8,
+      "producao_anterior": 15.34,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.502540619569965
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 9,
+      "producao_anterior": 18.67,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 17.317113521252328
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 10,
+      "producao_anterior": 14.27,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.369803285444847
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 11,
+      "producao_anterior": 18.87,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 17.325518906165318
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 16.577691966342055
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 8,
+      "producao_anterior": 19.73,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 17.878584586343063
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 9,
+      "producao_anterior": 22.9,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 20.813242516217894
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 10,
+      "producao_anterior": 24.58,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 20.813242516217894
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 11,
+      "producao_anterior": 25.09,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 22.140706423263897
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 3,
+      "producao_anterior": 19.24,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.41905979493393
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 2.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 11.40494034032021
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 8,
+      "producao_anterior": 20.89,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 43.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 24.334364882688877
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 9,
+      "producao_anterior": 29.96,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 79.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 23.83495754260211
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 10,
+      "producao_anterior": 31.04,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 113.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 23.067047848164957
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 1,
+      "producao_anterior": 23.53,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 206.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 17.549240279154294
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 3,
+      "producao_anterior": 16.49,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 265.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 11.373985831788604
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 5,
+      "producao_anterior": 8.9,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 309.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 9.373329735520784
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 5,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 16.223870967224105
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 6,
+      "producao_anterior": 8.0,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 11.173574473774828
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 8,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 17.948130208672687
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 9,
+      "producao_anterior": 19.3,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 17.317113521252328
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 10,
+      "producao_anterior": 25.64,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 22.414839323267422
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 11,
+      "producao_anterior": 24.66,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 20.53910961621437
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 3,
+      "producao_anterior": 19.24,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.41905979493393
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 7,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 44.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 19.846694797951816
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 8,
+      "producao_anterior": 12.26,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 86.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 12.97913175920042
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 10,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 17.948130208672687
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 11,
+      "producao_anterior": 23.83,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 20.53910961621437
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 3,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 15.991396834799811
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 6,
+      "producao_anterior": 18.45,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 15.7473499945756
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 7,
+      "producao_anterior": 16.15,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.198965592946568
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 8,
+      "producao_anterior": 14.63,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.502540619569965
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 9,
+      "producao_anterior": 17.13,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 16.061786373297416
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 10,
+      "producao_anterior": 12.79,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.120786081429646
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 1,
+      "producao_anterior": 18.42,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": null,
+      "del_disponivel": 0.0
+    },
+    "expected": 14.429714998481785
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 5,
+      "producao_anterior": null,
+      "producao_anterior_disponivel": 0.0,
+      "del_harmonizado": 3.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 17.605211075239193
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 7,
+      "producao_anterior": 14.04,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 52.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 13.26487394641536
+  },
+  {
+    "features": {
+      "propriedade": "UENP",
+      "mes_controle": 8,
+      "producao_anterior": 14.19,
+      "producao_anterior_disponivel": 1.0,
+      "del_harmonizado": 94.0,
+      "del_disponivel": 1.0
+    },
+    "expected": 13.666698101245647
+  }
+]
